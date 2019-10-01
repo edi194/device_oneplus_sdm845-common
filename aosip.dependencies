@@ -1,8 +1,7 @@
 [
   {
     "repository"  : "kernel_oneplus_sdm845",
-    "target_path" : "kernel/oneplus/sdm845",
-    "branch"      : "staging"
+    "target_path" : "kernel/oneplus/sdm845"
   },
   {
     "repository"  : "device_oneplus_common",
